@@ -2,9 +2,9 @@
 - 🐱‍💻 Eu sou o André Damiati, e é um prazer te ter aqui!
 
 
-- 🐱‍👤 Atualmente estou trabalhando na área de Telecomunicações.
-- 🐱‍🏍 Estou estudando Python, tenho por objetivo me tornar um desenvolvedor Back-end.
-- 🤠 Tenho 23, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games.
+- 🐱‍👤 Atualmente estou trabalhando em projetos pessoais, como desenvolvedor, estou aberto a oportunidades.
+- 🐱‍🏍 Tenho conhecimentos em HTML, CSS e JavaScript e estou estudando Python, tenho por objetivo me tornar um desenvolvedor Back-end.
+- 🤠 Tenho 24, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games.
 - 🐱‍🚀 Formado em Engenharia Elétrica.
 
 <div>
@@ -24,7 +24,7 @@
 ##
 <div> 
   <a href="https://instagram.com/damiati_kurt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Canal_do_Perna" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/Perna_tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:damiati.andre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-damiati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
