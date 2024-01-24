@@ -4,8 +4,8 @@
 
 - 🐱‍👤 Atualmente estou trabalhando em projetos pessoais como desenvolvedor, estou aberto a oportunidades.
 - 🐱‍🏍 Atualmente estudando Front end, focado em HTML, CSS, Javascript e Node JS, tenho a pretensão de me tornar um dev front-end em breve.
-- 🤠 Tenho 25, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games e gateiro.
-- 🐱‍🚀 Bacharel em Engenharia Elétrica.
+- 🤠 Tenho 26, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games e gateiro.
+- 🐱‍🚀 Bacharel em Engenharia Elétrica e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/damiatiandre">
