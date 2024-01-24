@@ -2,9 +2,9 @@
 - 🐱‍💻 Eu sou o André Damiati, e é um prazer te ter aqui!
 
 
-- 🐱‍👤 Atualmente estou trabalhando em projetos pessoais como desenvolvedor, estou aberto a oportunidades.
-- 🐱‍🏍 Atualmente estudando Front end, focado em HTML, CSS, Javascript e Node JS, tenho a pretensão de me tornar um dev front-end em breve.
-- 🤠 Tenho 26, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games e gateiro.
+- 🐱‍👤 Estou trabalhando ainda com projetos de engenharia elétrica, estou em processo de transição de carreira para enfim me tornar um dev.
+- 🐱‍🏍 Atualmente estudando Front end, focado em Javascript, Node JS, Angular, MongoDB, estou dedicado em me tornar Engenheiro de Software.
+- 🤠   Tenho 26, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games e gateiro.
 - 🐱‍🚀 Bacharel em Engenharia Elétrica e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
