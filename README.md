@@ -7,6 +7,8 @@
 - 🤠   Tenho 26, Sou do interior de SP. De músico a leitor, apaixonado por programação e um noob nos games e gateiro.
 - 🐱‍🚀 Bacharel em Engenharia Elétrica e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
+---
+
 <div>
   <a href="https://github.com/damiatiandre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damiatiandre&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
@@ -22,7 +24,7 @@
   <img align="center" alt="andre-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="picapau" height="100" width="150" src="https://thumbs.gfycat.com/GrotesqueIlliterateCavy-size_restricted.gif">
 </div>
-##
+<hr>
 <div> 
   <a href="https://instagram.com/andredamiati" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Perna_tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -32,3 +34,5 @@
   ![Snake animation](https://github.com/damiatiandre/damiatiandre/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andredamiati&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=andredamiati&redirect=true)
