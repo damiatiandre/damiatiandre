@@ -1,6 +1,6 @@
 # André Damiati 🤘🏽
 ## Welcome to my profile, nice to meet you!
-## I'm Future Software and Cyber Security Engineer
+## I'm Electrical Engeneering and future Cyber Security Engineer
 
 
 - 👨🏽‍💻 Bachelor in Electrical Engineering and currently studying Systems Analysis and Development.
