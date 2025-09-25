@@ -26,11 +26,11 @@
     
 <div style="display: inline_block" align="center"><br>
   <h4>Technologies</h4>
+  <img align="center" alt="andre-Python" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/b755636b-1c13-46ed-a9f7-6b94cf7cd6dc">
   <img align="center" alt="andre-HTML" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/78f34095-0753-49fe-bcf3-852b7c79114b">
   <img align="center" alt="andre-CSS" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/92a02d99-85c5-4536-9281-b61fbb0f256b">
   <img align="center" alt="andre-Js" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/8b3c7942-13fe-4dd9-97a9-e00eec09aeff">
   <img align="center" alt="andre-Ts" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/932d1e55-74c0-4c4c-a948-ad3de7c2da2b">
-  <img align="center" alt="andre-Python" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/b755636b-1c13-46ed-a9f7-6b94cf7cd6dc">
   <img align="center" alt="andre-C#" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/cfa793af-9754-4545-97f0-aa26e053a704">
   <img align="center" alt="andre-C" height="30" width="40" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/f2262904-e93a-4ced-a595-9805345ebe2d">
   <hr> 
@@ -47,7 +47,7 @@
 <div> 
   <a href="https://instagram.com/andredamiati" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Perna_tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:damiati.andre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andredamiati@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-damiati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
     
