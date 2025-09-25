@@ -1,12 +1,13 @@
 # André Damiati 🤘🏽
 ## Welcome to my profile, nice to meet you!
-## I'm Electrical Engeneering and future Cyber Security Engineer
+## I'm Electrical Engeneering and future Data Engineer
 
 
 - 👨🏽‍💻 Bachelor in Electrical Engineering and currently studying Systems Analysis and Development.
-- 🌩️ I'm still working on electrical engineering projects, I'm in the process of a career transition to finally become a dev.
-- 🤠 I'm 26, I'm from the interior of SP. From musician to reader, passionate about programming and a gaming noob..
-- 🐈‍⬛ I love cats, i have seven, until now.
+- 🌩️ I'm still working on electrical engineering projects, I'm in the process of a career transition to finally become a data engineer.
+- 🐍 I'm improving my studies for data analysis, such as Excel, BI, SQL and Python
+- 🤠 I'm 28, I'm from the interior of SP. From musician to reader, passionate about programming and a in gaming leader about cs team..
+- 🐈‍⬛ I love cats, i have five, until now.
 - ⬇️ Below you can see the languages ​​I work with and you can access my most recent projects.
 
 <hr>
