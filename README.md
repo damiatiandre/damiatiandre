@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am André Damiati, a young electrical engineer with the back of an old man and a future data engineer 🎲</h4>
+<h2 align="left">I am André Damiati, a young electrical engineer with the back of an old man and a future data engineer 🎲</h2>
 
 ###
 
