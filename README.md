@@ -19,10 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiatiandre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=damiatiandre&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###
+
 
 <div align="center" style="display: inline_block">
-  <img height="220px" width="200px"  src="https://spotify-github-profile.vercel.app/api/view?uid=andredamiati&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
+  
   <img height="200px" width="250px" alt="tanjiro" src="https://github.com/damiatiandre/damiatiandre/assets/88345299/94938147-772d-4d3e-83a8-8f7cc4349e20"> 
 </div>
 
@@ -32,11 +32,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/damiatiandre/damiatiandre/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
 
 <h2 align="left">My most used programming languages are:</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -61,5 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
+<br>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=100&stroke=-&descSize=20&descAlign=50&descAlignY=100&theme=cobalt"  />
+</div>
 
-###
